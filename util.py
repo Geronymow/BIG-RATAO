@@ -2,7 +2,13 @@ from menu import mostrar_menu
 from pedido import add_item, mostrar_pedido, finalizar, remover_item
 
 def console():
-    print("BEM VINDO!!")
+    print("BIG RATÃO")
+    print("""
+       ____()()
+      /      @@
+`~~~~~\\_;m__m._>o
+""")
+
     print("1 - Ver cardápio")
     print("2 - Adicionar item ao pedido")
     print("3 - Ver pedido")
